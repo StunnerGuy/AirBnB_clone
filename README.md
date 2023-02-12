@@ -2,7 +2,7 @@
 
 ## Contributors
 
-- [Oshisanya Tokunbo](https://github.com/StunnerGuy)
+- [Oshisanya Tokunbo S.](https://github.com/StunnerGuy)
 
 - [Adeleke Busari Busan](https://github.com/ictwebdev)
 
