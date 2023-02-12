@@ -1,5 +1,11 @@
 # 0x00. AirBnB clone - The console
 
+## Contributors
+
+- [Oshisanya Tokunbo](https://github.com/StunnerGuy)
+
+- [Adeleke Busari Busan](https://github.com/ictwebdev)
+
 ## 0x00.Table of contents
 
 * [0x01 Introduction](#0x01-Introduction)
