@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     margin: 0;
     padding: 0;
@@ -5,3 +6,14 @@ body {
     font-size: 14px;
     font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
+=======
+/*
+ * === Global style ===
+*/
+
+/* Body style */
+body {
+    color: #484848;
+    font-family: Circular,"Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+>>>>>>> e0665e2a53d34068e47ea36a7f00c1be07d10147

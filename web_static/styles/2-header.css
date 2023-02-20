@@ -1,5 +1,18 @@
+<<<<<<< HEAD
 header {
     background-color: #ff0000;
     height: 70px;
     width: 100;
 }
+=======
+/*
+ * === Global stye ===
+ */
+
+ /* Header style */
+ header {
+    background-color: #ff0000;
+    height: 70px;
+    width: 100%;
+ }
+>>>>>>> e0665e2a53d34068e47ea36a7f00c1be07d10147
